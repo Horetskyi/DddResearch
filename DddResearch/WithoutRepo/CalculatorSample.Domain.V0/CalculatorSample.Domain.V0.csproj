@@ -2,10 +2,7 @@
 
     <PropertyGroup>
         <TargetFramework>netstandard2.0</TargetFramework>
+        <RootNamespace>CalculatorSample.Domain.V0</RootNamespace>
     </PropertyGroup>
-
-    <ItemGroup>
-      <ProjectReference Include="..\CalculatorSample.Domain.Common\CalculatorSample.Domain.Common.csproj" />
-    </ItemGroup>
 
 </Project>

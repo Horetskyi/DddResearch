@@ -2,10 +2,11 @@
 
     <PropertyGroup>
         <TargetFramework>netstandard2.0</TargetFramework>
+        <RootNamespace>CalculatorSample.App.V0</RootNamespace>
     </PropertyGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\CalculatorSample.Domain.V1\CalculatorSample.Domain.V1.csproj" />
+      <ProjectReference Include="..\CalculatorSample.Domain.V0\CalculatorSample.Domain.V0.csproj" />
     </ItemGroup>
 
 </Project>
